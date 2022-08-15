@@ -13,3 +13,8 @@ JAVASCRIPT VARIABLES
 Los objetos y funciones tambien son variables
 
 **El scope determina la accesibilidad de variables, objetos y funciones desde diferentes partes del codigo.
+-----------------------
+function countries(){
+    country = 'Peru'; //si no se declara la variable y esta dentro de una funcion, se coloca scope global
+    console.log(country);
+}
