@@ -1,0 +1,15 @@
+generar package.json
+npm init -y
+---------------------------------------
+SCOPE
+alcance que determina la accesibilidad de las variables
+
+TIPOS DE SCOPE
+1.Global
+2.Function
+3.Block
+
+JAVASCRIPT VARIABLES
+Los objetos y funciones tambien son variables
+
+**El scope determina la accesibilidad de variables, objetos y funciones desde diferentes partes del codigo.

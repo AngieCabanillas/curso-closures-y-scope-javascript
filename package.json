@@ -1,0 +1,20 @@
+{
+  "name": "curso-closures-y-scope-javascript",
+  "version": "1.0.0",
+  "description": "Aprende qué es el Scope, Closures y Hoisting , identificar el uso de Local Scope, Function Scope y Block Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngieCabanillas/curso-closures-y-scope-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngieCabanillas/curso-closures-y-scope-javascript/issues"
+  },
+  "homepage": "https://github.com/AngieCabanillas/curso-closures-y-scope-javascript#readme"
+}
